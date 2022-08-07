@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Virat Kholi",
+      "username": "viratkholi",
+      "email": "viratkholi1234",
+      "phone": "9995555472",
+      "id": 1
+    },
+    {
+      "name": "harshu",
+      "username": "harshit",
+      "email": "harshit0528",
+      "phone": "225135",
+      "id": 2
+    },
+    {
+      "name": "Harshit Badiwal",
+      "username": "harshit0528",
+      "email": "harshitbadiwal0528@gmail.com",
+      "phone": "9955221144",
+      "id": 4
+    }
+  ]
+}
